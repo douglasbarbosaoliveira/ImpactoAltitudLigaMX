@@ -84,15 +84,28 @@ Pesquisa desenvolvida na **Universidad de Monterrey (UDEM)** sobre o "Imposto do
 
 ---
 
+## 📑 Interactive Reports | Reportes | Relatórios (HTML)
+
+*Access the full technical analysis for each phase:*
+
+* 📊 [Phase 1: Linear Regression](./pages/Altitud_LigaMX-Regresion.html)
+* 📈 [Phase 2: Logistic Regression & ROC Curve](./pages/Altitud_LigaMX-Regresion_Logistica.html)
+* 🧪 [Phase 3: LDA & Decision Boundaries](./pages/Altitud_LigaMX-LDA_Arboles_Decisión.html)
+* 🧠 [Phase 4: Neural Networks & Ensembles](./pages/Altitud_LigaMX-Ensambles_RedesNeuronales.html)
+* 🎓 [Final Academic Report (UDEM)](./pages/A2.3%20692767%20(2).html)
+
+---
+
 ## 🛠️ Tech Stack | Stack Tecnológico
 - **Python 3.8+** (`Pandas`, `Numpy`, `Scikit-learn`, `Statsmodels`, `Matplotlib`, `Seaborn`).
 
 ## 📂 Structure | Estructura
 * `/data`: Curated Liga MX datasets.
-* `/notebooks`: Step-by-step analysis journey.
-* `/visuals`: Exported high-resolution models and matrices.
+* `/notebooks`: Source code files (.ipynb).
+* `/pages`: Interactive HTML reports.
+* `/visuals`: High-resolution model visualizations.
 
 ## ⚙️ Setup
 ```bash
-git clone [https://github.com/douglasbarbosaoliveira/ImpactoAltitudLigaMX.git](https://github.com/douglasbarbosaoliveira/ImpactoAltitudLigaM.git)
+git clone [https://github.com/SEU_USUARIO/Altitude-Impact-LigaMX.git](https://github.com/SEU_USUARIO/Altitude-Impact-LigaMX.git)
 pip install -r requirements.txt
