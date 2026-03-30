@@ -92,7 +92,6 @@ Pesquisa desenvolvida na **Universidad de Monterrey (UDEM)** sobre o "Imposto do
 * 📈 [Phase 2: Logistic Regression & ROC Curve](./pages/Altitud_LigaMX-Regresion_Logistica.html)
 * 🧪 [Phase 3: LDA & Decision Boundaries](./pages/Altitud_LigaMX-LDA_Arboles_Decisión.html)
 * 🧠 [Phase 4: Neural Networks & Ensembles](./pages/Altitud_LigaMX-Ensambles_RedesNeuronales.html)
-* 🎓 [Final Academic Report (UDEM)](./pages/A2.3%20692767%20(2).html)
 
 ---
 
@@ -107,5 +106,5 @@ Pesquisa desenvolvida na **Universidad de Monterrey (UDEM)** sobre o "Imposto do
 
 ## ⚙️ Setup
 ```bash
-git clone [https://github.com/SEU_USUARIO/Altitude-Impact-LigaMX.git](https://github.com/SEU_USUARIO/Altitude-Impact-LigaMX.git)
+git clone [https://github.com/douglasbarbosaoliveira/ImpactoAltitudLigaMX.git](https://github.com/douglasbarbosaoliveira/ImpactoAltitudLigaMX.git)
 pip install -r requirements.txt
