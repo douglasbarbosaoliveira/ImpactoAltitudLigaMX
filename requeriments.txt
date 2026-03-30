@@ -1,19 +1,27 @@
-# ---------------------------------------------------------
-# Project: Altitude Impact Analysis in Liga MX
-# Purpose: List of dependencies required to run the analysis
-# ---------------------------------------------------------
+# ==============================================================================
+# Requirements for Altitude Impact Analysis Project (Liga MX)
+# Developed during Academic Exchange at UDEM
+# ==============================================================================
 
-# Data Manipulation and Numerical Computing
-pandas      # Essential for data structures and CSV manipulation
-numpy       # Fundamental package for scientific computing
+# Core Data Manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Statistical Modeling and Inference
+statsmodels>=0.13.0
+scipy>=1.9.0
+
+# Machine Learning Models (Logistic, LDA, Random Forest, MLP, Boosting)
+scikit-learn>=1.2.0
 
 # Data Visualization
-matplotlib  # Basic plotting library
-seaborn     # Statistical data visualization based on matplotlib
+matplotlib>=3.6.0
+seaborn>=0.12.0
 
-# Machine Learning and Statistical Modeling
-scikit-learn  # Required for Random Forest Regressor and metrics
-statsmodels   # Used for OLS Regression and p-value calculation
+# Export & Notebook Handling (Essential for .html and .ipynb)
+ipython>=8.0.0
+nbconvert>=7.0.0
+jinja2>=3.1.0
 
-# Development Environment
-notebook      # Interactive environment to run .ipynb files
+# Documentation and Project Quality
+# (Use 'pip install -r requirements.txt' to install all)
