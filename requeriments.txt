@@ -1,27 +1,5 @@
-# ==============================================================================
-# Requirements for Altitude Impact Analysis Project (Liga MX)
-# Developed during Academic Exchange at UDEM
-# ==============================================================================
-
-# Core Data Manipulation
-pandas>=1.5.0
-numpy>=1.23.0
-
-# Statistical Modeling and Inference
-statsmodels>=0.13.0
-scipy>=1.9.0
-
-# Machine Learning Models (Logistic, LDA, Random Forest, MLP, Boosting)
-scikit-learn>=1.2.0
-
-# Data Visualization
-matplotlib>=3.6.0
-seaborn>=0.12.0
-
-# Export & Notebook Handling (Essential for .html and .ipynb)
-ipython>=8.0.0
-nbconvert>=7.0.0
-jinja2>=3.1.0
-
-# Documentation and Project Quality
-# (Use 'pip install -r requirements.txt' to install all)
+streamlit
+pandas
+joblib
+statsmodels
+scikit-learn
