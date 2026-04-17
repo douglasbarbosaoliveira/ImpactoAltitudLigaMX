@@ -1,5 +1,0 @@
-streamlit
-pandas
-joblib
-statsmodels
-scikit-learn
