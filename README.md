@@ -13,11 +13,11 @@
 </p>
 
 <h3 align="center">
-  🌐 <b><a href="visuals/ligamx_screenshot-1.png">ACCESS THE LIVE DASHBOARD / ACCEDER AL SIMULADOR / ACESSAR O SIMULADOR</a></b> 🌐
+  🌐 <b><a href="https://ligamx-altitud.streamlit.app/">ACCESS THE LIVE DASHBOARD / ACCEDER AL SIMULADOR / ACESSAR O SIMULADOR</a></b> 🌐
 </h3>
 
 <p align="center">
-  <img src="./app_screenshot.png" alt="Simulador Liga MX - Fator Altitude" width="850px">
+  <img src="./visuals/ligamx_screenshot-1.png" alt="Simulador Liga MX - Fator Altitude" width="850px">
 </p>
 
 ---
